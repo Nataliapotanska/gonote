@@ -1,25 +1,6 @@
-body {
-	font-family: Arial;
-}
-img.main-image {
-	border: 2px solid #54C03F;
-    border-radius: 50%;
-}
-h1, h2 {
-	font-variant: small-caps;
-    color: green;
-}
-#main-header {
-    margin-bottom: 10px;
-    background-color: #D1FAD2;
-}
-a {
-	color: darkgreen;
-	font-weight: bold;
-}
-input {
-	border: 1px solid grey;
-    border-radius: 5px;
-	padding: 3px 5px;
-	margin-bottom: 10px;
+.cover {
+ background-image: url("https://img-ovh-cloud.zszywka.pl/0/0646/2505-wiosenna-stokrotka.jpg");
+ background-position: center;
+ background-size: cover;
+ min-height: 131px;
 }
